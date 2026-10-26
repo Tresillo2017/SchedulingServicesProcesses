@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Unit1/Tarea1/Tarea1.iml" filepath="$PROJECT_DIR$/Unit1/Tarea1/Tarea1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit1/Ejemplos Procesos Java/multitarea/multitarea.iml" filepath="$PROJECT_DIR$/Unit1/Ejemplos Procesos Java/multitarea/multitarea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit1/EjerciciosRepaso/re1/re1.iml" filepath="$PROJECT_DIR$/Unit1/EjerciciosRepaso/re1/re1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit1/EjerciciosRepaso/re2/re2.iml" filepath="$PROJECT_DIR$/Unit1/EjerciciosRepaso/re2/re2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit1/EjerciciosRepaso/re3/re3.iml" filepath="$PROJECT_DIR$/Unit1/EjerciciosRepaso/re3/re3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit1/EjerciciosRepaso/re4/re4.iml" filepath="$PROJECT_DIR$/Unit1/EjerciciosRepaso/re4/re4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit1/EjerciciosRepaso/re5/re5.iml" filepath="$PROJECT_DIR$/Unit1/EjerciciosRepaso/re5/re5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit1/EjerciciosRepaso/re6/re6.iml" filepath="$PROJECT_DIR$/Unit1/EjerciciosRepaso/re6/re6.iml" />
+    </modules>
+  </component>
+</project>
